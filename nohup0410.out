@@ -1,0 +1,126 @@
+log4j:WARN No appenders could be found for logger (com.mchange.v2.log.MLog).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+Info:/calendars/users/user_3@zhaoxi.me/calendar/|20130410T001632CST-61571FV3Aj@ZHAOXI/email|Wed Apr 10 07:20:00 CST 2013|2013-04-10 07:30:00|600000
+res:HTTP/1.1 200 OK [Date: Tue, 09 Apr 2013 23:20:00 GMT, Server: Apache/2.2.15 (CentOS), X-Powered-By: PHP/5.3.3, Set-Cookie: PHPSESSID=2mn4s8e62rpiaf9cp4mfn325r5; path=/, Expires: Thu, 19 Nov 1981 08:52:00 GMT, Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0, Pragma: no-cache, Content-Length: 1, Connection: close, Content-Type: text/html; charset=UTF-8]
+Info:/calendars/users/user_2@zhaoxi.me/calendar/|20130409T234220CST-8440Wdw2CA@ZHAOXI/email|Wed Apr 10 14:45:00 CST 2013|2013-04-10 15:00:00|900000
+res:HTTP/1.1 200 OK [Date: Wed, 10 Apr 2013 06:44:59 GMT, Server: Apache/2.2.15 (CentOS), X-Powered-By: PHP/5.3.3, Set-Cookie: PHPSESSID=a78tgdv0v7u55v8np34q0djqg4; path=/, Expires: Thu, 19 Nov 1981 08:52:00 GMT, Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0, Pragma: no-cache, Content-Length: 1, Connection: close, Content-Type: text/html; charset=UTF-8]
+Get one to DELETE:/calendars/users/user_2@zhaoxi.me/calendar/|20130410T044941CST-0968GBzwU6@ZHAOXI|email
+Get one to DELETE:/calendars/users/user_2@zhaoxi.me/calendar/|20130410T045121CST-3016mvfxnF@ZHAOXI|email
+Get one to DELETE:/calendars/users/user_2@zhaoxi.me/calendar/|20130410T045257CST-5512Sd4ICV@ZHAOXI|email
+5
+Get a weekly repeat alarm:/calendars/users/user_2@zhaoxi.me/calendar/|20130410T151604CST-5025OZbV9z@ZHAOXI/email5|false|WEEKLY|Fri Apr 12 13:00:00 CST 2013|Fri Apr 26 13:00:00 CST 2013
+trigger build successfully, the next fire time is:Fri Apr 12 12:45:00 CST 2013
+5
+Get a weekly repeat alarm:/calendars/users/user_2@zhaoxi.me/calendar/|20130410T151604CST-5025OZbV9z@ZHAOXI/phone5|false|WEEKLY|Fri Apr 12 13:00:00 CST 2013|Fri Apr 26 13:00:00 CST 2013
+trigger build successfully, the next fire time is:Fri Apr 12 12:50:00 CST 2013
+Get a simple alarm:/calendars/users/user_2@zhaoxi.me/calendar/|20130410T151706CST-9515BfvgPF@ZHAOXI/email|false|Mon Apr 15 08:00:00 CST 2013|900000|null
+trigger build successfully, the next fire time is:Mon Apr 15 07:45:00 CST 2013
+Get a simple alarm:/calendars/users/user_2@zhaoxi.me/calendar/|20130410T151706CST-9515BfvgPF@ZHAOXI/phone|false|Mon Apr 15 08:00:00 CST 2013|600000|null
+trigger build successfully, the next fire time is:Mon Apr 15 07:50:00 CST 2013
+4
+Get a weekly repeat alarm:/calendars/users/user_2@zhaoxi.me/calendar/|20130410T151822CST-1348vvSZn3@ZHAOXI/email4|false|WEEKLY|Thu Apr 11 08:00:00 CST 2013|Thu Apr 25 08:00:00 CST 2013
+trigger build successfully, the next fire time is:Thu Apr 11 07:45:00 CST 2013
+4
+Get a weekly repeat alarm:/calendars/users/user_2@zhaoxi.me/calendar/|20130410T151822CST-1348vvSZn3@ZHAOXI/phone4|false|WEEKLY|Thu Apr 11 08:00:00 CST 2013|Thu Apr 25 08:00:00 CST 2013
+trigger build successfully, the next fire time is:Thu Apr 11 07:50:00 CST 2013
+20130410T151822CST-1348vvSZn3@ZHAOXI/email4
+Get one to UNTRIGGER:/calendars/users/user_2@zhaoxi.me/calendar/|20130410T151822CST-1348vvSZn3@ZHAOXI/email4|2013-4-11 8:30:0
+the first fire time after untriggered:Thu Apr 18 07:45:00 CST 2013
+20130410T151822CST-1348vvSZn3@ZHAOXI/email4
+Get one to UNTRIGGER:/calendars/users/user_2@zhaoxi.me/calendar/|20130410T151822CST-1348vvSZn3@ZHAOXI/email4|2013-4-11 8:30:0
+the first fire time after untriggered:Thu Apr 18 07:45:00 CST 2013
+Get a simple alarm:/calendars/users/user_2@zhaoxi.me/calendar/|20130410T151822CST-1348vvSZn3@ZHAOXI/email/Thu Apr 11 08:30:00 CST 2013|false|Thu Apr 11 08:00:00 CST 2013|900000|2013-4-11 8:30:0
+trigger build successfully, the next fire time is:Thu Apr 11 07:45:00 CST 2013
+Get a simple alarm:/calendars/users/user_2@zhaoxi.me/calendar/|20130410T151822CST-1348vvSZn3@ZHAOXI/email/Thu Apr 11 08:30:00 CST 2013|false|Thu Apr 11 08:00:00 CST 2013|600000|2013-4-11 8:30:0
+Get a simple alarm:/calendars/users/user_14@zhaoxi.me/calendar/|20130410T175719CST-7005g2g5bF@ZHAOXI/phone|false|Wed Apr 10 20:30:00 CST 2013|1200000|null
+trigger build successfully, the next fire time is:Wed Apr 10 20:10:00 CST 2013
+Get one to DELETE:/calendars/users/user_14@zhaoxi.me/calendar/|20130410T175728CST-0847apVBog@ZHAOXI|email
+Get one to DELETE:/calendars/users/user_14@zhaoxi.me/calendar/|20130410T175728CST-0847apVBog@ZHAOXI|email
+Get one to DELETE:/calendars/users/user_14@zhaoxi.me/calendar/|20130410T175719CST-7005g2g5bF@ZHAOXI|phone
+Get a simple alarm:/calendars/users/user_14@zhaoxi.me/calendar/|20130410T175745CST-4974kN9aup@ZHAOXI/phone|false|Wed Apr 10 20:30:00 CST 2013|1200000|null
+trigger build successfully, the next fire time is:Wed Apr 10 20:10:00 CST 2013
+Info:/calendars/users/user_14@zhaoxi.me/calendar/|20130410T175745CST-4974kN9aup@ZHAOXI/phone|Wed Apr 10 20:10:00 CST 2013|2013-04-10 20:30:00|1200000
+res:HTTP/1.1 200 OK [Date: Wed, 10 Apr 2013 12:09:59 GMT, Server: Apache/2.2.15 (CentOS), X-Powered-By: PHP/5.3.3, Set-Cookie: PHPSESSID=gcjutun1e484rohp7ss2lkud77; path=/, Expires: Thu, 19 Nov 1981 08:52:00 GMT, Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0, Pragma: no-cache, Content-Length: 1, Connection: close, Content-Type: text/html; charset=UTF-8]
+20130410T151604CST-5025OZbV9z@ZHAOXI/email5
+Get one to UNTRIGGER:/calendars/users/user_2@zhaoxi.me/calendar/|20130410T151604CST-5025OZbV9z@ZHAOXI/email5|2013-4-12 13:30:0
+the first fire time after untriggered:Fri Apr 19 12:45:00 CST 2013
+Get a simple alarm:/calendars/users/user_2@zhaoxi.me/calendar/|20130410T151604CST-5025OZbV9z@ZHAOXI/phone/Fri Apr 12 13:30:00 CST 2013|false|Fri Apr 12 16:00:00 CST 2013|600000|2013-4-12 13:30:0
+trigger build successfully, the next fire time is:Fri Apr 12 15:50:00 CST 2013
+Get a simple alarm:/calendars/users/user_2@zhaoxi.me/calendar/|20130410T151604CST-5025OZbV9z@ZHAOXI/email/Fri Apr 12 13:30:00 CST 2013|false|Fri Apr 12 16:00:00 CST 2013|900000|2013-4-12 13:30:0
+trigger build successfully, the next fire time is:Fri Apr 12 15:45:00 CST 2013
+20130410T151604CST-5025OZbV9z@ZHAOXI/phone5
+Get one to UNTRIGGER:/calendars/users/user_2@zhaoxi.me/calendar/|20130410T151604CST-5025OZbV9z@ZHAOXI/phone5|2013-4-12 13:30:0
+the first fire time after untriggered:Fri Apr 19 12:50:00 CST 2013
+Get one to DELETE:/calendars/users/user_2@zhaoxi.me/calendar/|20130410T151604CST-5025OZbV9z@ZHAOXI|email
+Get one to DELETE:/calendars/users/user_2@zhaoxi.me/calendar/|20130410T151604CST-5025OZbV9z@ZHAOXI|phone
+Get one to DELETE:/calendars/users/user_3@zhaoxi.me/calendar/|20130410T001632CST-61571FV3Aj@ZHAOXI|email
+Info:/calendars/users/user_2@zhaoxi.me/calendar/|20130410T041048CST-8395b3zurE@ZHAOXI/phone|Thu Apr 11 00:29:00 CST 2013|2013-04-11 00:30:00|60000
+res:HTTP/1.1 200 OK [Date: Wed, 10 Apr 2013 16:29:00 GMT, Server: Apache/2.2.15 (CentOS), X-Powered-By: PHP/5.3.3, Set-Cookie: PHPSESSID=vrqnolfu7vph4m0tvb0svtfoe2; path=/, Expires: Thu, 19 Nov 1981 08:52:00 GMT, Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0, Pragma: no-cache, Content-Length: 1, Connection: close, Content-Type: text/html; charset=UTF-8]
+Get a simple alarm:/calendars/users/user_19@zhaoxi.me/calendar/|20130411T003010CST-2026gggbn7@ZHAOXI/email|false|Thu Apr 11 01:00:00 CST 2013|1200000|null
+trigger build successfully, the next fire time is:Thu Apr 11 00:40:00 CST 2013
+Get a simple alarm:/calendars/users/user_19@zhaoxi.me/calendar/|20130411T003010CST-2026gggbn7@ZHAOXI/phone|false|Thu Apr 11 01:00:00 CST 2013|1200000|null
+trigger build successfully, the next fire time is:Thu Apr 11 00:40:00 CST 2013
+Get one to DELETE:/calendars/users/user_19@zhaoxi.me/calendar/|20130411T003010CST-2026gggbn7@ZHAOXI|email
+Get a simple alarm:/calendars/users/user_19@zhaoxi.me/calendar/|20130411T003020CST-8455wtxw5c@ZHAOXI/email|false|Thu Apr 11 01:00:00 CST 2013|1200000|null
+trigger build successfully, the next fire time is:Thu Apr 11 00:40:00 CST 2013
+Get a simple alarm:/calendars/users/user_19@zhaoxi.me/calendar/|20130411T003020CST-8455wtxw5c@ZHAOXI/phone|false|Thu Apr 11 01:00:00 CST 2013|1200000|null
+trigger build successfully, the next fire time is:Thu Apr 11 00:40:00 CST 2013
+Get one to DELETE:/calendars/users/user_19@zhaoxi.me/calendar/|20130411T003020CST-8455wtxw5c@ZHAOXI|email
+Get a simple alarm:/calendars/users/user_19@zhaoxi.me/calendar/|20130411T003029CST-9206ThgxwV@ZHAOXI/email|false|Thu Apr 11 01:00:00 CST 2013|1200000|null
+trigger build successfully, the next fire time is:Thu Apr 11 00:40:00 CST 2013
+Get a simple alarm:/calendars/users/user_19@zhaoxi.me/calendar/|20130411T003029CST-9206ThgxwV@ZHAOXI/phone|false|Thu Apr 11 01:00:00 CST 2013|1200000|null
+trigger build successfully, the next fire time is:Thu Apr 11 00:40:00 CST 2013
+Get one to DELETE:/calendars/users/user_19@zhaoxi.me/calendar/|20130411T003029CST-9206ThgxwV@ZHAOXI|email
+Get a simple alarm:/calendars/users/user_19@zhaoxi.me/calendar/|20130411T003147CST-3206TMvVlx@ZHAOXI/email|false|Thu Apr 11 01:00:00 CST 2013|1200000|null
+trigger build successfully, the next fire time is:Thu Apr 11 00:40:00 CST 2013
+Get a simple alarm:/calendars/users/user_19@zhaoxi.me/calendar/|20130411T003147CST-3206TMvVlx@ZHAOXI/phone|false|Thu Apr 11 01:00:00 CST 2013|1200000|null
+trigger build successfully, the next fire time is:Thu Apr 11 00:40:00 CST 2013
+Get one to DELETE:/calendars/users/user_19@zhaoxi.me/calendar/|20130411T003147CST-3206TMvVlx@ZHAOXI|email
+Get a simple alarm:/calendars/users/user_19@zhaoxi.me/calendar/|20130411T003202CST-3948fEUrVL@ZHAOXI/email|false|Thu Apr 11 01:00:00 CST 2013|1200000|null
+trigger build successfully, the next fire time is:Thu Apr 11 00:40:00 CST 2013
+Get a simple alarm:/calendars/users/user_19@zhaoxi.me/calendar/|20130411T003202CST-3948fEUrVL@ZHAOXI/phone|false|Thu Apr 11 01:00:00 CST 2013|1200000|null
+trigger build successfully, the next fire time is:Thu Apr 11 00:40:00 CST 2013
+Get one to DELETE:/calendars/users/user_19@zhaoxi.me/calendar/|20130411T003202CST-3948fEUrVL@ZHAOXI|email
+Get a simple alarm:/calendars/users/user_19@zhaoxi.me/calendar/|20130411T003251CST-6354Wn8LjO@ZHAOXI/email|false|Thu Apr 11 01:00:00 CST 2013|1200000|null
+trigger build successfully, the next fire time is:Thu Apr 11 00:40:00 CST 2013
+Get a simple alarm:/calendars/users/user_19@zhaoxi.me/calendar/|20130411T003251CST-6354Wn8LjO@ZHAOXI/phone|false|Thu Apr 11 01:00:00 CST 2013|1200000|null
+trigger build successfully, the next fire time is:Thu Apr 11 00:40:00 CST 2013
+Get a simple alarm:/calendars/users/user_1@zhaoxi.me/calendar/|20130411T003254CST-1196odv1aN@ZHAOXI/phone|false|Fri Apr 12 01:00:00 CST 2013|1200000|null
+trigger build successfully, the next fire time is:Fri Apr 12 00:40:00 CST 2013
+Get a simple alarm:/calendars/users/user_3@zhaoxi.me/calendar/|20130411T003402CST-2447rFVoI5@ZHAOXI/phone|false|Thu Apr 11 01:30:00 CST 2013|600000|null
+trigger build successfully, the next fire time is:Thu Apr 11 01:20:00 CST 2013
+Get one to DELETE:/calendars/users/user_3@zhaoxi.me/calendar/|20130411T003402CST-2447rFVoI5@ZHAOXI|phone
+Get a simple alarm:/calendars/users/user_3@zhaoxi.me/calendar/|20130411T003406CST-7167S3iUcB@ZHAOXI/phone|false|Thu Apr 11 01:00:00 CST 2013|600000|null
+trigger build successfully, the next fire time is:Thu Apr 11 00:50:00 CST 2013
+java.text.ParseException: Unparseable date: "null"
+	at java.text.DateFormat.parse(DateFormat.java:357)
+	at com.zhaoxi.alarm.AlarmDaemon.main(AlarmDaemon.java:209)
+Info:/calendars/users/user_19@zhaoxi.me/calendar/|20130411T003010CST-2026gggbn7@ZHAOXI/phone|Thu Apr 11 00:40:00 CST 2013|2013-04-11 01:00:00|1200000
+res:HTTP/1.1 200 OK [Date: Wed, 10 Apr 2013 16:39:59 GMT, Server: Apache/2.2.15 (CentOS), X-Powered-By: PHP/5.3.3, Set-Cookie: PHPSESSID=7nnrp9irek58b9cvjlbufsuif1; path=/, Expires: Thu, 19 Nov 1981 08:52:00 GMT, Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0, Pragma: no-cache, Content-Length: 1, Connection: close, Content-Type: text/html; charset=UTF-8]
+Info:/calendars/users/user_19@zhaoxi.me/calendar/|20130411T003020CST-8455wtxw5c@ZHAOXI/phone|Thu Apr 11 00:40:00 CST 2013|2013-04-11 01:00:00|1200000
+Info:/calendars/users/user_19@zhaoxi.me/calendar/|20130411T003029CST-9206ThgxwV@ZHAOXI/phone|Thu Apr 11 00:40:00 CST 2013|2013-04-11 01:00:00|1200000
+Info:/calendars/users/user_19@zhaoxi.me/calendar/|20130411T003147CST-3206TMvVlx@ZHAOXI/phone|Thu Apr 11 00:40:00 CST 2013|2013-04-11 01:00:00|1200000
+Info:/calendars/users/user_19@zhaoxi.me/calendar/|20130411T003202CST-3948fEUrVL@ZHAOXI/phone|Thu Apr 11 00:40:00 CST 2013|2013-04-11 01:00:00|1200000
+Info:/calendars/users/user_19@zhaoxi.me/calendar/|20130411T003251CST-6354Wn8LjO@ZHAOXI/email|Thu Apr 11 00:40:00 CST 2013|2013-04-11 01:00:00|1200000
+Info:/calendars/users/user_19@zhaoxi.me/calendar/|20130411T003251CST-6354Wn8LjO@ZHAOXI/phone|Thu Apr 11 00:40:00 CST 2013|2013-04-11 01:00:00|1200000
+res:HTTP/1.1 200 OK [Date: Wed, 10 Apr 2013 16:40:01 GMT, Server: Apache/2.2.15 (CentOS), X-Powered-By: PHP/5.3.3, Set-Cookie: PHPSESSID=2mhti9g0dq6aj4ir3ilqm6rre7; path=/, Expires: Thu, 19 Nov 1981 08:52:00 GMT, Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0, Pragma: no-cache, Content-Length: 1, Connection: close, Content-Type: text/html; charset=UTF-8]
+res:HTTP/1.1 200 OK [Date: Wed, 10 Apr 2013 16:40:01 GMT, Server: Apache/2.2.15 (CentOS), X-Powered-By: PHP/5.3.3, Set-Cookie: PHPSESSID=t60dhqavo94slg6vjcgggdef52; path=/, Expires: Thu, 19 Nov 1981 08:52:00 GMT, Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0, Pragma: no-cache, Content-Length: 1, Connection: close, Content-Type: text/html; charset=UTF-8]
+res:HTTP/1.1 200 OK [Date: Wed, 10 Apr 2013 16:40:01 GMT, Server: Apache/2.2.15 (CentOS), X-Powered-By: PHP/5.3.3, Set-Cookie: PHPSESSID=si1sul6eer7f2vsmel5j3hvvl5; path=/, Expires: Thu, 19 Nov 1981 08:52:00 GMT, Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0, Pragma: no-cache, Content-Length: 1, Connection: close, Content-Type: text/html; charset=UTF-8]
+res:HTTP/1.1 200 OK [Date: Wed, 10 Apr 2013 16:40:01 GMT, Server: Apache/2.2.15 (CentOS), X-Powered-By: PHP/5.3.3, Set-Cookie: PHPSESSID=gljo49pfofpd86ejgould4vpi1; path=/, Expires: Thu, 19 Nov 1981 08:52:00 GMT, Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0, Pragma: no-cache, Content-Length: 1, Connection: close, Content-Type: text/html; charset=UTF-8]
+res:HTTP/1.1 200 OK [Date: Wed, 10 Apr 2013 16:40:01 GMT, Server: Apache/2.2.15 (CentOS), X-Powered-By: PHP/5.3.3, Set-Cookie: PHPSESSID=b2iti4k4r18e1hkt8gqqt6f645; path=/, Expires: Thu, 19 Nov 1981 08:52:00 GMT, Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0, Pragma: no-cache, Content-Length: 1, Connection: close, Content-Type: text/html; charset=UTF-8]
+res:HTTP/1.1 200 OK [Date: Wed, 10 Apr 2013 16:40:01 GMT, Server: Apache/2.2.15 (CentOS), X-Powered-By: PHP/5.3.3, Set-Cookie: PHPSESSID=dcrc44jme9mgrg1ji1suidi5c1; path=/, Expires: Thu, 19 Nov 1981 08:52:00 GMT, Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0, Pragma: no-cache, Content-Length: 1, Connection: close, Content-Type: text/html; charset=UTF-8]
+Info:/calendars/users/user_3@zhaoxi.me/calendar/|20130411T003406CST-7167S3iUcB@ZHAOXI/phone|Thu Apr 11 00:50:00 CST 2013|2013-04-11 01:00:00|600000
+res:HTTP/1.1 200 OK [Date: Wed, 10 Apr 2013 16:49:59 GMT, Server: Apache/2.2.15 (CentOS), X-Powered-By: PHP/5.3.3, Set-Cookie: PHPSESSID=uu1tora5vobkdpqi8v6tstk2k1; path=/, Expires: Thu, 19 Nov 1981 08:52:00 GMT, Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0, Pragma: no-cache, Content-Length: 1, Connection: close, Content-Type: text/html; charset=UTF-8]
+Info:/calendars/users/user_2@zhaoxi.me/calendar/|20130410T024300CST-0579K8maZ5@ZHAOXI/phone|Thu Apr 11 00:58:00 CST 2013|2013-04-11 01:00:00|120000
+res:HTTP/1.1 200 OK [Date: Wed, 10 Apr 2013 16:58:00 GMT, Server: Apache/2.2.15 (CentOS), X-Powered-By: PHP/5.3.3, Set-Cookie: PHPSESSID=k9ih26sn5us8fqiea179g0sr35; path=/, Expires: Thu, 19 Nov 1981 08:52:00 GMT, Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0, Pragma: no-cache, Content-Length: 287, Connection: close, Content-Type: text/html; charset=UTF-8]
+Info:/calendars/users/user_2@zhaoxi.me/calendar/|20130410T042001CST-6397VatHML@ZHAOXI/email|Thu Apr 11 00:59:00 CST 2013|2013-04-11 01:00:00|60000
+res:HTTP/1.1 200 OK [Date: Wed, 10 Apr 2013 16:58:59 GMT, Server: Apache/2.2.15 (CentOS), X-Powered-By: PHP/5.3.3, Set-Cookie: PHPSESSID=njp1qhq8gvu4b9g5peiqf6ov32; path=/, Expires: Thu, 19 Nov 1981 08:52:00 GMT, Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0, Pragma: no-cache, Content-Length: 287, Connection: close, Content-Type: text/html; charset=UTF-8]
+Info:/calendars/users/user_2@zhaoxi.me/calendar/|20130410T044805CST-3309U1BvdD@ZHAOXI/phone|Thu Apr 11 01:29:00 CST 2013|2013-04-11 01:30:00|60000
+res:HTTP/1.1 200 OK [Date: Wed, 10 Apr 2013 17:28:59 GMT, Server: Apache/2.2.15 (CentOS), X-Powered-By: PHP/5.3.3, Set-Cookie: PHPSESSID=7spk9d2krvin9jp0rkp16prmc0; path=/, Expires: Thu, 19 Nov 1981 08:52:00 GMT, Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0, Pragma: no-cache, Content-Length: 1, Connection: close, Content-Type: text/html; charset=UTF-8]
+Info:/calendars/users/user_2@zhaoxi.me/calendar/|20130410T032026CST-3726rovAEO@ZHAOXI/email|Thu Apr 11 01:59:00 CST 2013|2013-04-11 02:00:00|60000
+res:HTTP/1.1 200 OK [Date: Wed, 10 Apr 2013 17:58:59 GMT, Server: Apache/2.2.15 (CentOS), X-Powered-By: PHP/5.3.3, Set-Cookie: PHPSESSID=9mpuv6923kvu3bv6q2lad21mi0; path=/, Expires: Thu, 19 Nov 1981 08:52:00 GMT, Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0, Pragma: no-cache, Content-Length: 1, Connection: close, Content-Type: text/html; charset=UTF-8]
+Info:/calendars/users/user_2@zhaoxi.me/calendar/|20130410T151822CST-1348vvSZn3@ZHAOXI/email|Thu Apr 11 07:45:00 CST 2013|2013-04-11 08:00:00|900000
+res:HTTP/1.1 200 OK [Date: Wed, 10 Apr 2013 23:44:59 GMT, Server: Apache/2.2.15 (CentOS), X-Powered-By: PHP/5.3.3, Set-Cookie: PHPSESSID=pfm6vfu6amtn1pgc24qgtsc1p7; path=/, Expires: Thu, 19 Nov 1981 08:52:00 GMT, Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0, Pragma: no-cache, Content-Length: 1, Connection: close, Content-Type: text/html; charset=UTF-8]
+Info:/calendars/users/user_2@zhaoxi.me/calendar/|20130410T151822CST-1348vvSZn3@ZHAOXI/phone|Thu Apr 11 07:50:00 CST 2013|2013-04-11 08:00:00|600000
+res:HTTP/1.1 200 OK [Date: Wed, 10 Apr 2013 23:49:59 GMT, Server: Apache/2.2.15 (CentOS), X-Powered-By: PHP/5.3.3, Set-Cookie: PHPSESSID=sr4vihn8dcml4rqrjdab5k4d71; path=/, Expires: Thu, 19 Nov 1981 08:52:00 GMT, Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0, Pragma: no-cache, Content-Length: 1, Connection: close, Content-Type: text/html; charset=UTF-8]
